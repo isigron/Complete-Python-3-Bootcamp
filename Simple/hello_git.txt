@@ -1,1 +1,15 @@
-Hello git- commit one
+git config:
+--------------
+git config --global --list
+
+git config --global core.editor notepad++
+
+git config --global help.autocorrect 1
+
+git cofig --global color.ui auto
+
+git config --global core.autocrlf true
+
+git config --global merge.tool winmerge
+
+git config --global mergetool.prompt false
