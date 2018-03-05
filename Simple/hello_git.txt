@@ -13,3 +13,21 @@ git config --global core.autocrlf true
 git config --global merge.tool winmerge
 
 git config --global mergetool.prompt false
+
+__________________________________________________________
+git basic:
+-----------
+git clone https://github.com/isigron/Complete-Python-3-Bootcamp.git
+git status
+git add  .
+git add FileName.txt
+git status
+
+git difftool
+
+git commit -a -m "add your message here"
+
+git push -u origin master
+__________________________________________________________
+
+_____
