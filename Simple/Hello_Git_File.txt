@@ -30,6 +30,10 @@ git commit -a -m "add your message here"
 git push -u origin master
 
 git checkout filename.txt - this will revert to state before last change. not commited yet.
-__________________________________________________________
 
-_modified the file____
+
+git checkout filename.txt - this will revert to state before last change. not commited yet.
+
+rename:    hello_git.txt -> Hello_Git_File.txt
+git mv hello_git.txt Hello_Git_File.txt
+by the way git mv can be used also to move to file to other location. not just to rename the file.
