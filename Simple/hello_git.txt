@@ -28,6 +28,8 @@ git difftool
 git commit -a -m "add your message here"
 
 git push -u origin master
+
+git checkout filename.txt - this will revert to state before last change. not commited yet.
 __________________________________________________________
 
 _modified the file____
